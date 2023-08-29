@@ -24,7 +24,7 @@ Consider a situation a player(AGENT) is  playing in the football field.The aim o
 
 ### Action Space
 {F,R,K} 
-where, F -> FALL
+where, * F -> FALL
        R -> RUN
        K -> KICK
 

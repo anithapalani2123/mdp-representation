@@ -34,9 +34,10 @@ where,
 R -> RUN
 
 ### Reward Function
+```
 Reward function = { +1, when the ball is in the goal.
                     0, otherwise.
-
+```
 ### Graphical Representation
 
 

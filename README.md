@@ -39,7 +39,7 @@ Reward function = { +1, when the ball is in the goal.
                     0, otherwise.
 
 ### Graphical Representation
-![WhatsApp Image 2023-08-29 at 2 35 45 PM](https://github.com/anithapalani2123/mdp-representation/assets/94184990/8565acb3-b27b-4908-b876-53ca9bdb708f)
+
 
 
 ## PYTHON REPRESENTATION:

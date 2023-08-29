@@ -15,6 +15,7 @@ Consider a situation a player(AGENT) is  playing in the football field.The aim o
 ### State Space
 {BAP,BWP,BG,} - {0,1,2}
  where, 
+ *
      * BAP -> Ball is away from the player.
      * BG -> Ball is in the goal state.
      * BWP -> Ball is with the player.

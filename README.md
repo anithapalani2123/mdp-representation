@@ -14,19 +14,21 @@ Consider a situation a player(AGENT) is  playing in the football field.The aim o
 
 ### State Space
 {BAP,BWP,BG,} - {0,1,2}
- where,  BAP -> Ball is away from the player.
-         BG -> Ball is in the goal state.
-         BWP -> Ball is with the player.
+ where, 
+     * BAP -> Ball is away from the player.
+     * BG -> Ball is in the goal state.
+     * BWP -> Ball is with the player.
 
 ### Sample State
  BAP -> 0
  Ball is away from the player.
 
 ### Action Space
-{F,R,K} 
-where, * F -> FALL
-       R -> RUN
-       K -> KICK
+{F,R,K} -{0,1,2}
+where, 
+  * F -> FALL
+  * R -> RUN
+  * K -> KICK
 
 ### Sample Action
 R -> RUN

@@ -13,15 +13,16 @@ Python - Dictonary representation
 Consider a situation a player(AGENT) is  playing in the football field.The aim of the player is to place the ball in goal state.
 
 ### State Space
-{BAP,BWP,BG,} - {0,1,2}
+{BAP,BWP,BOB,BG,} - {0,1,2,3}
  where, 
 * BAP -> Ball is away from the player.
 *  BG -> Ball is in the goal state.
+*  BOB -> Ball is out of the Boundary.
 * BWP -> Ball is with the player.
 
 ### Sample State
  BAP -> 0
- Ball is away from the player.
+*  Ball is away from the player.
 
 ### Action Space
 {F,R,K} -{0,1,2}

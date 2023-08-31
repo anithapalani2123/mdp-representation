@@ -31,7 +31,8 @@ where,
   * K -> KICK
 
 ### Sample Action
-R -> RUN
+R -> 1
+* RUN
 
 ### Reward Function
 ```

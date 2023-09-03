@@ -12,7 +12,7 @@ To represent a Markov Decision Process(MDP) problem in the following ways.
 Consider a situation a player(AGENT) is  playing in the football field.The aim of the player is to place the ball in goal state.
 
 ### State Space
-{BAP,BWP,BOB,BG,} - {0,1,2,3}
+{BAP,BG,BOB,BWP} - {0,1,2,3}
  where, 
 * BAP -> Ball is away from the player.
 *  BG -> Ball is in the goal state.
@@ -40,6 +40,7 @@ Reward function = { +1, when the ball is in the goal.
 ```
 ### Graphical Representation
 
+![IMG_20230903_205207](https://github.com/anithapalani2123/mdp-representation/assets/94184990/84405164-1828-48bb-95ae-d426f2c2038c)
 
 
 ## PYTHON REPRESENTATION:
